@@ -1,0 +1,223 @@
+.navbar-default .navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+    color: #40D2B1;
+    height: 70px;
+    line-height: 35px;
+}
+
+.navbar{
+	margin-bottom: 0;
+}
+
+@media (min-width: 768px){
+	.navbar-right {
+	    float: right !important;
+	    margin-right: -15px;
+	    font-size: 16px;
+	    margin-top: 10px;
+	    font-weight: bold;
+	}
+}
+
+/*guang gao*/
+#home{
+	background: url(../img/home-bg.jpg);
+	background-size: cover;
+	width: 100%;
+	text-align: center;
+}
+
+.lj{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.7);
+	padding: 90px 0;
+	color: #fff;
+}
+
+.lj h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#hang p{
+	line-height: 45px;
+	font-size: 18px;
+}
+
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    margin-top: 20px;
+}
+/*三圈*/
+#bbs{
+	text-align: center;
+	margin: 80px 0;
+/*	border: 1px solid #ccc;*/
+}
+
+#bbs a{
+	text-decoration: none;
+	color: #000;
+	padding: 15px;
+}
+
+#bbs .cons:hover{
+	box-shadow: 1px 1px 3px #ccc;
+	background: #f1f1f1;
+}
+
+#bbs h1{
+	font-weight: bold;
+}
+
+#bbs p{
+	font-size: 16px;
+}
+
+#bbs img{
+	margin: 0 auto;
+}
+
+/*zuoyou*/
+.cones h1{
+	font-weight: bold;
+}
+
+.cones span{
+	width: 40px;
+	height: 40px;
+	background: #40d2b1;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 40px;
+}
+
+.cones .first{
+	font-size: 16px;
+}
+
+.secend{
+	margin-top: 150px;
+}
+
+/*kecheng*/
+#backs{
+	background: #f8f8f8;
+}
+
+.thred{
+	text-align: center;
+	margin-top: 60px;
+}
+
+.thred .nr{
+	background: #fff;
+}
+
+.thred h1{
+	font-weight: bold;
+}
+
+.thred img{
+	margin-top: 40px;
+	text-align: center;
+}
+
+.btn-primary{
+	background: #fff;
+	border: 1px solid #40d2b1;
+	color: #40d2b1;
+	margin-top: 20px;
+	width: 137px;
+	height: 36px;
+	margin-bottom: 50px;                      
+	transition: 0.8s;
+}
+
+.btn-primary:hover{
+	background: #40d2b1;
+}
+
+/*down*/
+.four{
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+.four h1{
+	font-weight: bold;
+}
+
+.four p{
+	margin-top: 45px;
+}
+
+.four button{
+	/*text-decoration: none;*/
+	width: 150px;
+	height: 34px;
+	background: #40d2b1;
+	color: #fff;
+	text-align: center;
+	
+}
+
+/*lianxi*/
+#calls{
+	background: url(../img/contact-bg.png);
+	width: 100%;
+	height: 100%;
+	color: #fff;
+}
+
+
+.zhezhao{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.5);
+	padding: 90px 0;
+}
+
+.zhezhao h1{
+	padding-top: 90px;
+}
+
+.zhezhao p{
+	line-height: 24px;
+}
+
+.zhezhao .form-group{
+	margin-top: 90px;
+}
+
+.zhezhao .titles{
+	margin-top: 20px;
+}
+
+.zhezhao .wenben{
+	margin-top: 20px;
+}
+
+.zhezhao .btn{
+	margin-top: 20px;
+}
+
+.zhezhao .bus{
+	height: 40px;
+	background: #40d2b1;
+	color: #fff;
+	text-align: center;
+	border: none;
+}
+
+.form-control {
+    margin-top: 20px;
+}
+
+/*dibu*/
+.footers{
+	text-align: center;
+	height: 70px;
+	line-height: 70px;
+}
